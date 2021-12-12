@@ -1,0 +1,9 @@
+Ta lisas, et riigi teenustes võeti eile õhtul kasutusele rida ajutisi meetmeid ohu vähendamiseks või paigaldati Log4j versioon, kus turvanõrkust enam ei ole.
+
+Erinevad kommertstooted võivad samuti sisaldada haavatavat komponenti. Sellisel juhul tuleb oodata tootjapoolset turvapaika. Näiteks küberturvalisuse ettevõte F-Secure paikas täna varahommikul oma antiviiruse keskhalduse.
+
+Mida peaksid tegema ettevõtte või asutuse juhid?
+
+Selgitage välja, kas teie e-teenused või ostetud kommertstooted kasutavad Java Log4j logimisfunktsiooni. Kui jah, siis laske IT-osakonnal või teenusepakkujal tarkvara uuendada või rakendage ajutisi meetmeid, mis riske vähendavad.
+
+RIA palub ettevõtetel, kes kahtlustavad küberrünnakut, pöörduda CERT-EE poole aadressil cert@cert.ee „Mida rohkem on meil infot juhtumite kohta Eestis, seda paremini saame abi pakkuda ja ohte ennetada,“ lisas Tammer.

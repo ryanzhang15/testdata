@@ -1,0 +1,5 @@
+Haavatavus on populaarse programmeerimiskeele Java laialt kasutatavas Apache Log4j logimisfunktsioonis, tegu on globaalse puudusega. Nõrkus mõjutab ka kõiki Eesti ettevõtteid ja asutusi, mis neid teenuseid kasutavad. RIA soovitab tungivalt kõikidel asutustel kontrollida, kas nad on nõrkusest mõjutatud ja võtta vajadusel kasutusele vastumeetmed.
+
+„Ettevõtted ja ka riigiasutused peaksid vaatama üle oma teenuseportfelli kuuluvad Java platvormil põhinevad teenused. Jälgige, kas teie kasutuses olevatele toodetele on väljastatud uuendusi. Kui on, siis tehke need kiiresti ära, sest need paikavad kriitilise turvanõrkuse. See on eriti oluline nende süsteemide puhul, mis on kättesaadavad internetist,“ ütles RIA küberintsidentide käsitlemise osakonna (CERT-EE) juhataja Tõnu Tammer.
+
+CERT-EE on esialgsel hinnangul tuvastanud Eesti ettevõtteid ja asutusi, mis on nõrkusest ohustatud. „Suhtlesime asutustega ning haavatavad teenused on praeguseks suletud. Jätkame mõjutatud ettevõtete igakülgset abistamist ning uute juhtumite otsimist,“ lausus Tammer. CERT-EE vahetab infot partneritega üle maailma ning seirab toimuvat, et võimalikke rünnakuid ennetada.
