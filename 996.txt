@@ -1,0 +1,2 @@
+Các tỉnh, thành có số mắc mới dưới 300 ca là: Bình Thuận 268 ca, Gia Lai 211 ca, Đà Nẵng 205 ca, Bắc Ninh 194 ca, Hải Phòng 183 ca, Thanh Hóa 182 ca, Lâm Đồng 165 ca, Nghệ An 145 ca, Hưng Yên 134 ca, Quảng Ngãi 122 ca, Đắk Nông và Quảng Nam mỗi nơi 103 ca, Lạng Sơn 96 ca, Hà Giang và Ninh Thuận mỗi tỉnh 81 ca, Long An 72 ca.
+
